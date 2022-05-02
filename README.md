@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Gustavo Gomes Gozo desenvolvedor Delphi há mais de 10 anos.<br>
+- 👋 Olá, eu sou Gustavo Gomes Gozo desenvolvedor Delphi há mais de 12 anos.<br>
 #### Tenho interesse em apreender as tecnologias:
 <div align="left" valign="top">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
